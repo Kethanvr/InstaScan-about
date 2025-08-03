@@ -115,8 +115,8 @@ Hey! I'm **Kethan VR**, an AI dev & software builder from Bangalore. InstaScan i
 | Platform    | Link                                                                 |
 |-------------|----------------------------------------------------------------------|
 | 💻 GitHub   | [github.com/Kethanvr](https://github.com/Kethanvr)                   |
-| 💼 LinkedIn | [linkedin.com/in/kethan-vr-433ab532b](https://www.linkedin.com/in/kethanvr) |
-| 🐦 X (Twitter)| [x.com/VrKethan](https://x.com/kethan_vr)                            |
+| 💼 LinkedIn | [linkedin.com/in/kethan_vr](https://www.linkedin.com/in/kethan_vr) |
+| 🐦 X (Twitter)| [x.com/kethan_vr](https://x.com/kethan_vr)                            |
 | 📺 YouTube  | [youtube.com/@kethanvr](https://www.youtube.com/@kethanvr)           |
 | 💬 Discord  | [discord.gg/PcbfmP6j](https://discord.gg/PcbfmP6j)                   |
 
